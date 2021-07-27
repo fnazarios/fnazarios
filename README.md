@@ -8,5 +8,4 @@
 
 Hello! My name is Fernando and I've working with software development since 2006 and focused on iOS since 2009. 
 
-- 🔭 I’m currently working on ThoughtWorks as Lead iOS Developer;
 - 🏃 I'm spending some free time in my side-project [RunIn](https://apps.apple.com/us/app/runin-running-tracker/id1421917327?ign-mpt=uo%3D4). Is an app for running training using your Apple Watch. [Check it out](https://apps.apple.com/us/app/runin-running-tracker/id1421917327?ign-mpt=uo%3D4) 
